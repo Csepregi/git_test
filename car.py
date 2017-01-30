@@ -1,7 +1,8 @@
 import random
 from dakar import Dakar
 
-
+weterert
+fdfd
 
 class Car(Dakar):
 

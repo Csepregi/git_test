@@ -3,6 +3,8 @@ from random import *
 class Dakar:
 
 
+
+
     def __init__(self, speed):
         self.speed = speed
         self.distance = 0
