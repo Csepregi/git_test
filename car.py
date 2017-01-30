@@ -2,6 +2,7 @@ import random
 from dakar import Dakar
 
 
+
 class Car(Dakar):
 
     speed_limit = 130
